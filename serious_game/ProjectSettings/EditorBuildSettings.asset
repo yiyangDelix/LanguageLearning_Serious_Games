@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Phase1.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  m_configObjects:
+    AR Foundation RemoteARFoundationRemoteLoaderSettings: {fileID: 11400000, guid: 4b6d217672a206647afc71e63f13dc6e,
+      type: 2}
+    AR Foundation RemoteARFoundationRemoteSessionRecordsData: {fileID: 11400000, guid: f207c10c326ec354f92dd52a4795674b,
+      type: 2}
+    Niantic.Lightship.AR.LightshipSettings: {fileID: 11400000, guid: 133f1b6da6eaddf49b4e9b1117473c7a,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2d681c05398e7fd43b9627c2f755ae6a,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: fc83d79ea96ee5149838ad3f5fff68ea,
+      type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: b78d1aa53a23e36418b3d48c5a0a82c4, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 7fd1621e5f7052f409320294c6714ec3,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: baa4fa056a1bebf4797c6f96938f6729, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 4c4c2f55f8cad4246a03320e6eaf4156, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: b4e7ae4b883f37b41b2880868818fab3,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 8d44926d28458cf48bca5e66c637a4ca,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bfc23363305335d48ba81a4c1f2b63c3,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a0a2e915061aa244ebed6f226adcb8d7,
+      type: 2}
